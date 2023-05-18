@@ -1,0 +1,17 @@
+{
+  "id": "106",
+  "role": "student",
+  "password": "mathagorom",
+  "name": {
+    "firsName": "Md",
+    "middleName": "N",
+    "lastName": "Shikder"
+  },
+  "dateOfBirth": "20 Feb 2000",
+  "email": "abcd@gamil.com",
+  "gender": "Male",
+  "contactNo": "022210221",
+  "emergencyContactNo": "999999",
+  "presentAddress": "Manikgonj",
+  "parmanentAddress": "manikgonj"
+}
